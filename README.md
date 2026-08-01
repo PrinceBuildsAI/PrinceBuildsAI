@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Prince Singh
-I'm passionate about building intelligent software that solves real-world problems. I specialize in developing AI-powered applications, voice assistants, automation tools, and machine learning solutions with a focus on clean architecture and practical innovation.<br> <br># 💡 What I Do?<br>- 🤖 AI & Machine Learning<br>- 🧠 Large Language Models (LLMs)<br>- 🎙️ Voice Assistants & Speech AI<br>- 🐍 Python Development<br>- 🌐 API Integration<br>- ⚡ Automation & Productivity Tools<br>- 💻 Full-Stack AI Applications<br><br>
+I'm passionate about building intelligent software that solves real-world problems. I specialize in developing AI-powered applications, voice assistants, automation tools, and machine learning solutions with a focus on clean architecture and practical innovation.<br> <br># 💡 What I Do?<br> <br>- 🤖 AI & Machine Learning<br>- 🧠 Large Language Models (LLMs)<br>- 🎙️ Voice Assistants & Speech AI<br>- 🐍 Python Development<br>- 🌐 API Integration<br>- ⚡ Automation & Productivity Tools<br>- 💻 Full-Stack AI Applications<br><br>
 
 
 ## 🌐 Socials:
